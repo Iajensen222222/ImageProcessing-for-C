@@ -3,21 +3,19 @@
 <p>ece.iajensen@gmail.com</p>
 
 ## Description
-This project will take a jpg image and apply a filter onto it. There are three to choose from: blur, sharpen, and black-and-white. Sharpen comes with a strength modifier which sharepns the image more or less depending on what is needed. This project is very similiar to one I made using Python.
+This project will take a jpg image and apply a filter onto it. There are three to choose from: blur, sharpen, and black-and-white. Sharpen comes with a strength modifier which sharepns the image more or less depending on what is needed. This project is very similiar to the one I made using Python.
 
 ## Usage
-imageprocessing.py comes with a built in usage statement when activated from the command line.
-![image](https://github.com/user-attachments/assets/5c315b46-c63f-4e16-ab3a-f8c46d631f5f)
-As shown in the above image, all you have to do is add the type of filter you want (blur, sharpen, or bw), the image's file path (easiest to have it in the same folder) you want to transform, and the name of the output image.
+All you have to do is add the type of filter you want (blur, sharpen, or bw), the image's file path (easiest to have it in the same folder) you want to transform, and the name of the output image.
 If you are using the sharpen function, make sure to add a strength modifier (default is 1.0).
 
 ## Installations
-For this application, make sure to have pandas, imageio, and numpy installed.
-<p>If not, go to the commandline and type "pip install {package}" and replace {package} with the package you want installed.</p>
+For this application, make sure to have stdlib.c, stdio.c, time.c, and string.c installed.
+<p>If not, there are plenty of online sources to download those c files.</p>
 
 ![image](https://github.com/user-attachments/assets/d32d84f5-72ee-434a-aafb-1c8917bbeb13)
 
-After you have installed all the necessary packages, you can finally use the application.
+After you have installed all the necessary c files, you can finally use the application.
 
 ## Example
 
