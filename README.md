@@ -13,8 +13,6 @@ If you are using the sharpen function, make sure to add a strength modifier (def
 For this application, make sure to have stdlib.c, stdio.c, time.c, and string.c installed.
 <p>If not, there are plenty of online sources to download those c files.</p>
 
-![image](https://github.com/user-attachments/assets/d32d84f5-72ee-434a-aafb-1c8917bbeb13)
-
 After you have installed all the necessary c files, you can finally use the application.
 
 ## Example
